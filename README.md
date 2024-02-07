@@ -7,7 +7,4 @@
 
 `higlighting`
 
-![alt text](http://picsum.photo/400/400)
-
-
-| deniz | deniz | deniz |
+![alt text](http://picsum.photos/400/400)
