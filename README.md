@@ -6,3 +6,5 @@
 [Video Empfehlung](https://www.youtube.com/watch?v=eJojC3lSkwg)
 
 `higlighting`
+
+![alt text](http://picsum.photo/400/400)
