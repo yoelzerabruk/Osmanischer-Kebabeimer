@@ -8,6 +8,6 @@
 
 `higlighting`
 
-![alt text](http://picsum.photos/400/400?grayscale)
+![alt text](http://picsum.photos/400/400.jpg)
 
 [meine erset seite](meineersteseite.md)
